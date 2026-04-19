@@ -1,0 +1,14 @@
+[
+  {
+    "requestID": "mock-request-1001",
+    "providerName": "MockGenerator",
+    "imageURL": "https://mock.api.toyboxme.dev/v1/images/sample-portrait-001.jpg",
+    "imageData": "<base64-jpeg-payload>"
+  },
+  {
+    "requestID": "mock-request-1002",
+    "providerName": "MockGenerator",
+    "imageURL": "https://mock.api.toyboxme.dev/v1/images/sample-portrait-002.jpg",
+    "imageData": "<base64-jpeg-payload>"
+  }
+]
